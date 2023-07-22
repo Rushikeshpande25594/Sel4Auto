@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Component" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core_Engine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Driver" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Library" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MyProject" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Report" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Runner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TestData" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="TESTnG" level="project" />
+    <orderEntry type="library" exported="" name="testng" level="project" />
+  </component>
+</module>
