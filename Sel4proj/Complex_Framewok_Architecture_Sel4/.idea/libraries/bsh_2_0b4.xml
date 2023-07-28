@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="bsh-2.0b4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bsh-2.0b4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bsh-2.0b6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommander-1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommander-1.72.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommander-1.82.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr305-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snakeyaml-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
